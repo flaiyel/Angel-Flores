@@ -23,7 +23,7 @@ p {
 
 #cv {
 	width: 90%;
-	max-width: 800px;
+	max-width: 850px;
 	background: #f3f3f3;
 	margin: 30px auto;
 }
@@ -35,7 +35,7 @@ p {
 	/* float: center; */
 	/* position: fixed; */
 	min-height: 100px;
-    width: 730px;
+    width: 780px;
     word-wrap: break-word;
 }
 
