@@ -13,6 +13,10 @@ display:block;
 
 html, body {background: #181818; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #f3f3f3;}
 
+body {
+	width: 1000px;
+}
+
 .clear {clear: both;}
 
 p {
